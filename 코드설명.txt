@@ -1,0 +1,5 @@
+App.js: react-native 코드
+crawl.py: 네이버 뉴스 수집 CLI 실행 코드
+parse.py: 네이버 뉴스 수집 후 DB insert 코드
+get_news.php: Select해온 후 App.js에 데이터를 넘겨주는 코드
+delete_news.php: 해당 뉴스 delete하는 코드
